@@ -61,3 +61,4 @@ for i in range(0, total_links, num_threads):
 end_time = time.time()
 
 print(f'All links processed in {end_time-start_time:.2f} seconds.')
+input("Press any key to exit.")
