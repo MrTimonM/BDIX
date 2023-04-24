@@ -6,6 +6,8 @@ Required modules will be installed automatically
 If not , then open CMD and install manually 
 >. pip install colorama
 >. pip install pyfiglet
+Timeout is = 5 seconds
+Thread = 10 - 100
 Working links will be saved in alive.txt file 
 Dead/ invalid links will be saved in dead.txt file
 ----------------------------------------------------------------------------------------------------------------------------------------------
